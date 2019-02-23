@@ -2,20 +2,35 @@
   <dictionary name="ZSCDumin">
     <words>
       <w>actived</w>
+      <w>adagrad</w>
       <w>argmax</w>
       <w>biaes</w>
       <w>ckpt</w>
       <w>conv</w>
+      <w>croped</w>
+      <w>dtype</w>
+      <w>flearn</w>
       <w>intreval</w>
+      <w>iters</w>
       <w>lamada</w>
+      <w>linspace</w>
       <w>logit</w>
       <w>logits</w>
+      <w>lstm</w>
       <w>meda</w>
       <w>mnist</w>
+      <w>protocal</w>
+      <w>regressor</w>
+      <w>regularaztion</w>
       <w>regularizer</w>
       <w>relu</w>
+      <w>resized</w>
+      <w>rmse</w>
+      <w>sklearn</w>
       <w>softmax</w>
       <w>tensorflow</w>
+      <w>tfrecords</w>
+      <w>timesteps</w>
     </words>
   </dictionary>
 </component>
